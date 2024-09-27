@@ -60,20 +60,17 @@ cuaca = "mendung"
 # else:
 #     print("Menu tidak tersedia")
 
-# angka = 10
+angka = 10
 # perkondisian pertama
-# if angka % 2 == 0:
-#     print("Genap")
-# if angka > 0:
-#     print("positif")
+if angka % 2 == 0:
+    print("Genap")
+if angka > 0:
+    print("positif")
 
 # perkondisian kedua
-# if angka % 2 == 0:
-#     print("Genap")
-# elif angka > 0:
-#     print("positif")
+if angka % 2 == 0:
+    print("Genap")
+elif angka > 0:
+    print("positif")
 
 # if elif ... else
-
-text = "aku maba 24"
-print(text[4:8])
