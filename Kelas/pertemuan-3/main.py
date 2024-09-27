@@ -9,5 +9,6 @@ elif menu==2 :
     print("sedang ngoding")
 elif menu==3 : 
     print("Sedang keluar")
-else:
+else :
     print("Menu tidak tersedia")
+    print("Perubahan")
