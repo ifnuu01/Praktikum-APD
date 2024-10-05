@@ -20,7 +20,7 @@ Keluar      >> 5
                 print(f"Nama : {data_mahasiswa[i]}")
                 print("="*10)
             input("Enter.....")
-            os.system('cls || clecar')
+            os.system('cls || clear')
         case "2":
             print("MENU TAMBAH DATA")
             print("=" * 10)
@@ -58,3 +58,4 @@ Keluar      >> 5
         case _:
             print(f"Menu {pilih} tidak tersedia")
             input("Enter.....")
+            os.system('cls || clear')
